@@ -1,0 +1,3 @@
+A simple word cloud generator, based on [this blog post](http://pirategrunt.com/2013/12/11/24-days-of-r-day-11/) by PirateGrunt.
+
+This small Shiny application demonstrates a Word Cloud of the most common words in a books. Just choose the name of the book, press 'Change', wait a litle and get fun. Also you can handle with the maximum number of the words that will be displayed and the minimum of the frequency of the words by sliders. The font size corresponds to the frequency of words.
